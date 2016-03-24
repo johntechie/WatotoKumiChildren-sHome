@@ -1,0 +1,108 @@
+body {
+      background-color:grey;
+      font-family:cursive;
+      height: auto;
+      line-height: 1.5;
+      
+     }
+
+a   {
+    text-decoration: none
+}
+
+a:link, a:visited {
+    background-color:
+    color: white;
+    
+}
+
+a:hover a:active {
+    background-color: greenyellow;
+    color:white;
+    
+}
+
+.body {
+      margin: 0 auto;
+      width: 90%;
+      clear:both;
+      
+}
+
+.mainimage img {
+    width:100%;
+    height: auto;
+    border: 50px;
+    padding-top: 0px;
+    
+}
+
+.mainheader nav {
+    background-color:blue;
+    background-image: image(logo2.jpg);
+    border-radius:0px;
+    height: 40px;
+    padding-top:20px;
+    
+}
+
+.mainheader nav ul {
+     list-style: 0 auto;
+     margin: 2px;
+    float: left;
+    
+    
+    
+}
+
+.mainheader nav li {
+        float: center;
+        display: inline-block;
+        padding-top: 10px;
+        background-color:red;
+        border-radius: 10px;
+        
+}
+.logo  {
+    floa
+    
+}
+
+.mainheader nav a:link .mainheader a:visited  {
+    color: white;
+    display: inline-block;
+    padding: 10px 25px;
+}
+
+.footer  {
+    background-color: blue;
+    height: 40px;
+    boarder-radius:5px;
+    padding-top: 25px;
+    border-bottom: 0px;
+}
+
+.footer ul {
+     display: inline;
+     list-style: none;
+}
+
+
+.footer li  {
+    display:inline;
+    align-items: center;
+    vertical-align: middle;
+    
+        
+}
+.mainheader nav a:active, mainheader nav a;hover, mainheader nav .active a:link, mainheader nav .active a:visited,  {
+    background-color: greenyellow;
+    color: white;
+    
+}
+
+.mainimage {
+      border: 10%;     height: 10%;
+}
+
+
